@@ -1,0 +1,15 @@
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+credentials.json
+
+*.log
+*.tmp
+.DS_Store
+
+.vscode/
+telebot/
